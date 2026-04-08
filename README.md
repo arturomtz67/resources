@@ -10,12 +10,12 @@ This is a work in progress repo, suggestions are highly welcome.
 | Category | Description |
 |---|---|
 | Epidemiology | R-based epi methods and applied resources |
-| Statistics | Regression modeling and marginal effects |
+| Statistics | Statistical modeling tips and books |
 | ML | Python ML frameworks |
 | Data Visualization | R visualization ecosystem |
-| Causal ML/AI | Causal inference for omics and AI systems |
+| Causal ML/AI | Causal inference for different topics |
 | R/Quarto | Tips, tricks, and good coding practices |
-| Reporting Guidelines | TRIPOD+AI for prediction model reporting |
+| Reporting Guidelines | For prediction model reporting or other types of modeling |
 
 
 
