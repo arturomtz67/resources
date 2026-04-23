@@ -14,6 +14,7 @@ This is a work in progress repo, suggestions are highly welcome.
 | ML | Python ML frameworks |
 | Data Visualization | R visualization ecosystem |
 | Causal ML/AI | Causal inference for different topics |
+| Omics | Resources for different omics |
 | R/Quarto | Tips, tricks, and good coding practices |
 | Reporting Guidelines | For prediction model reporting or other types of modeling |
 
@@ -61,6 +62,7 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[How to Make High-Quality PDFs with Quarto and Typst](https://rfortherestofus.com/2025/11/quarto-typst-pdf)**: Step-by-step guide to producing polished PDFs from Quarto.
 - **[R for the Rest of Us (Blog)](https://rfortherestofus.com/blog)**: Tips, news, and tutorials for R users of all levels.
 - **[The Good Research Code Handbook](https://goodresearch.dev/)**: Practical guidance on organizing research code so it is easy to understand and works reliably — aimed at grad students, postdocs, and PIs.
+- **[The {targets} R package user manual](https://books.ropensci.org/targets/)**: The package skips costly runtime for tasks that are already up to date, orchestrates the necessary computation with implicit parallel computing, and abstracts files as R objects. If all the current output matches the current upstream code and data, then the whole pipeline is up to date, and the results are more trustworthy than otherwise.
 
 ## AI/ML Prediction Model Reporting
 
