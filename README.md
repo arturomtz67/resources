@@ -56,6 +56,10 @@ This is a work in progress repo, suggestions are highly welcome.
 ## Omics
 
 - **[Tutorials Multi-Omics Factor Analysis](https://biofam.github.io/MOFA2/tutorials.html)**: Tutorials to use MOFA.
+- **[Computational Genomics with R](https://compgenomr.github.io/book/)**: The aim of this book is to provide the fundamentals for data analysis for genomics..
+- **[DNA Methylation: Array Workflow](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html#quality-control)**: In this tutorial, we will provide examples of the steps involved in analyzing methylation array data using R and Bioconductor.
+
+
 
 ## R/Quarto Tips and Tricks
 
