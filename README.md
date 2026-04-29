@@ -39,26 +39,29 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[Tidymodels packages](https://www.tidymodels.org/packages/)**: The tidymodels framework is a collection of packages for modeling and machine learning using tidyverse principles.
 - **[Compendium of free ML reading resources](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources)**: GitHub repo with a lot of ML resources.
 - **[Machine Learning with R, Fourth Edition](https://github.com/PacktPublishing/Machine-Learning-with-R-Fourth-Edition)**: Learn techniques for building and improving machine learning models, from data preparation to model tuning, evaluation, and working with big data.
-
+- **[GEiPRS - A Fast and Powerful Machine Learning Method for Polygenic Risk Score Prediction by Leveraging Genotype-Environment Interactions](https://github.com/linnabrown/geiprs)**: GEiPRS simultaneously models both genotype (G) and GEI effects and efficiently handle high-dimensional GWAS data in terms of variant selection and PRS construction and prediction. 
 
 ## Data Visualization
 
 - **[easystats: An R Framework for Easy Statistical Modeling, Visualization, and Reporting](https://github.com/easystats)**: A collection of R packages for statistical modeling and visualization.
 - **[the ggplot2 Geom Explorer](https://www.ggplot2-uncharted.com/ggplot2-geom-explorer)**: This explorer puts every option on one page, so you can stop defaulting to bar and line charts and reach for whatever actually fits your story.
+- **[R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)**: Finding a good color scheme for presenting data can be challenging. This color cheatsheet will help!
+- **[ggstatsplot](https://www.indrapatil.com/ggstatsplot/index.html)**: {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
 
 
 ## Causal ML/AI
 
 - **[Causal-ish Omics](https://github.com/Trhova/Causal-Microbiome-Omics)**: A guide for people doing microbiome/metabolomics/multi-omics who want to get closer to causal answers.
 - **[Causal Artificial Intelligence](https://causalai-book.net/)**: A comprehensive textbook bridging probability theory, causal inference, machine learning, and decision-making under uncertainty.
+- **[Causal Inference in R](https://www.r-causal.org/)**: The tools in this book will allow readers to better make causal inferences with observational data with the R programming language. 
 
 
 ## Omics
 
 - **[Tutorials Multi-Omics Factor Analysis](https://biofam.github.io/MOFA2/tutorials.html)**: Tutorials to use MOFA.
-- **[Computational Genomics with R](https://compgenomr.github.io/book/)**: The aim of this book is to provide the fundamentals for data analysis for genomics..
+- **[Computational Genomics with R](https://compgenomr.github.io/book/)**: The aim of this book is to provide the fundamentals for data analysis for genomics.
 - **[DNA Methylation: Array Workflow](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html#quality-control)**: In this tutorial, we will provide examples of the steps involved in analyzing methylation array data using R and Bioconductor.
-
+- **[Quality control of the proteomic data from LUMOS machine](https://www.huber.embl.de/users/jlu/Proteomics/qualityControl_LUMOS.html)**: Example of QC for proteomics data.
 
 
 ## R/Quarto Tips and Tricks
@@ -67,7 +70,9 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[R for the Rest of Us (Blog)](https://rfortherestofus.com/blog)**: Tips, news, and tutorials for R users of all levels.
 - **[The Good Research Code Handbook](https://goodresearch.dev/)**: Practical guidance on organizing research code so it is easy to understand and works reliably — aimed at grad students, postdocs, and PIs.
 - **[The {targets} R package user manual](https://books.ropensci.org/targets/)**: The package skips costly runtime for tasks that are already up to date, orchestrates the necessary computation with implicit parallel computing, and abstracts files as R objects. If all the current output matches the current upstream code and data, then the whole pipeline is up to date, and the results are more trustworthy than otherwise.
+- **[A Few Claude Skills for R Users](https://rworks.dev/posts/claude-skills-for-r-users/)**: This is a (very) short roundup of Skills created by members of the community that are especially helpful for R users.
 
 ## AI/ML Prediction Model Reporting
 
 - **[TRIPOD+AI Statement](https://www.bmj.com/content/385/bmj-2023-078378)**: Updated guidance for reporting clinical prediction models that use regression or machine learning methods.
+- **[Improving Health Care with Clinical Prediction Models From Idea to Impact](https://library.maastrichtuniversity.nl/resources/maastricht-university-press/catalog/improving-health-care-with-clinical-prediction-models/)**: This textbook offers a practical and comprehensive guide to developing, validating, and implementing clinical prediction models in health care, tracing the full pathway from concept to real-world impact.
