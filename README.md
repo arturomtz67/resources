@@ -32,7 +32,11 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[Regression Modeling Strategies](https://hbiostat.org/rmsc/)**: Great book to gain more in-depth knowledge of statistical modeling.
 - **[Marginalia: A guide to figuring out what the heck marginal effects are](https://www.andrewheiss.com/blog/2022/05/20/marginalia/#what-does-marginal-even-mean-in-the-first-place)**: Defines what marginal effects are, and explores the subtle differences between average marginal effects, marginal effects at the mean, and marginal effects at representative values with the `marginaleffects` and `emmeans` R packages.
 - **[How to Interpret Statistical Models with marginaleffects for R and Python](https://marginaleffects.com/)**: Designed to help you overcome challenges in communicating model results to colleagues and stakeholders.
-
+- **[performance](https://easystats.github.io/performance/index.html)**: The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit.
+- **[interactionR](https://github.com/tunsmart/interactionR)**: InteractionR allows researchers to produce publication-ready tables that includes all effect estimates necessary for full reporting effect modification and interaction analysis as recommended by Knol and Vanderweele (2012).
+- **[Assessing interation in epidemiological studies](https://ehsanx.github.io/interaction/)**: Guide to understand and interpret interactions.
+- **[Multiple Time Varying Covariates](https://github.com/egonzato/mtvc)**: The function mtvc takes as input one more more time varying variable, with the respective date in which that change was found, and restructures the data frame into the counting process strucure, where each patient has a time window which reflects the comorbidity status.
+  
 ## ML
 
 - **[scikit-learn: Machine Learning in Python](https://scikit-learn.org/stable/)**: The go-to reference for ML in Python.
@@ -40,6 +44,8 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[Compendium of free ML reading resources](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources)**: GitHub repo with a lot of ML resources.
 - **[Machine Learning with R, Fourth Edition](https://github.com/PacktPublishing/Machine-Learning-with-R-Fourth-Edition)**: Learn techniques for building and improving machine learning models, from data preparation to model tuning, evaluation, and working with big data.
 - **[GEiPRS - A Fast and Powerful Machine Learning Method for Polygenic Risk Score Prediction by Leveraging Genotype-Environment Interactions](https://github.com/linnabrown/geiprs)**: GEiPRS simultaneously models both genotype (G) and GEI effects and efficiently handle high-dimensional GWAS data in terms of variant selection and PRS construction and prediction. 
+- **[iterative Random Forests (iRF)](https://github.com/sumbose/iRF)**: The R package iRF implements iterative Random Forests, a method for iteratively growing ensemble of weighted decision trees, and detecting high-order feature interactions by analyzing feature usage on decision paths. 
+
 
 ## Data Visualization
 
@@ -47,7 +53,8 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[the ggplot2 Geom Explorer](https://www.ggplot2-uncharted.com/ggplot2-geom-explorer)**: This explorer puts every option on one page, so you can stop defaulting to bar and line charts and reach for whatever actually fits your story.
 - **[R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)**: Finding a good color scheme for presenting data can be challenging. This color cheatsheet will help!
 - **[ggstatsplot](https://www.indrapatil.com/ggstatsplot/index.html)**: {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
-
+- **[Plotting Functions for the 'performance' Package](https://easystats.github.io/see/articles/performance.html)**: The primary goal of the performance package in easystats ecosystem is to provide utilities for computing indices of model quality and goodness of fit. 
+  
 
 ## Causal ML/AI
 
