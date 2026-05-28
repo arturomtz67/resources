@@ -75,6 +75,7 @@ This is a work in progress repo, suggestions are highly welcome.
 ## PRS
 - **[Basic Tutorials for Polygenic Risk Score Analyses](https://choishingwan.github.io/PRS-Tutorial/)**: he aim of this tutorial is to provide a simple introduction of PRS analyses to those new to PRS, while equipping existing users with a better understanding of the processes and implementation "underneath the hood" of popular PRS software.
 - **[A review of methods and software for polygenic risk score analysis](https://peerj.com/articles/cs-3039/)**: This review explores the advancement of PRS research, focusing on methodological approaches, software tools, and applications across diverse disciplines.
+- **[GWA tutorial](https://github.com/hitrp/GWA_tutorial)**: This GitHub repository provides several tutorials about techniques used to analyze genetic data.
 
 
 ## R/Quarto Tips and Tricks
