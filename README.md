@@ -15,6 +15,7 @@ This is a work in progress repo, suggestions are highly welcome.
 | Data Visualization | R visualization ecosystem |
 | Causal ML/AI | Causal inference for different topics |
 | Omics | Resources for different omics |
+| PRS | Resources for calculating polygenic risk scores  |
 | R/Quarto | Tips, tricks, and good coding practices |
 | Reporting Guidelines | For prediction model reporting or other types of modeling |
 
@@ -69,6 +70,11 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[Computational Genomics with R](https://compgenomr.github.io/book/)**: The aim of this book is to provide the fundamentals for data analysis for genomics.
 - **[DNA Methylation: Array Workflow](https://nbis-workshop-epigenomics.readthedocs.io/en/latest/content/tutorials/methylationArray/Array_Tutorial.html#quality-control)**: In this tutorial, we will provide examples of the steps involved in analyzing methylation array data using R and Bioconductor.
 - **[Quality control of the proteomic data from LUMOS machine](https://www.huber.embl.de/users/jlu/Proteomics/qualityControl_LUMOS.html)**: Example of QC for proteomics data.
+
+
+## PRS
+- **[Basic Tutorials for Polygenic Risk Score Analyses](https://choishingwan.github.io/PRS-Tutorial/)**: he aim of this tutorial is to provide a simple introduction of PRS analyses to those new to PRS, while equipping existing users with a better understanding of the processes and implementation "underneath the hood" of popular PRS software.
+- **[A review of methods and software for polygenic risk score analysis](https://peerj.com/articles/cs-3039/)**: This review explores the advancement of PRS research, focusing on methodological approaches, software tools, and applications across diverse disciplines.
 
 
 ## R/Quarto Tips and Tricks
