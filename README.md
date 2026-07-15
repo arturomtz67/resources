@@ -35,7 +35,7 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[How to Interpret Statistical Models with marginaleffects for R and Python](https://marginaleffects.com/)**: Designed to help you overcome challenges in communicating model results to colleagues and stakeholders.
 - **[performance](https://easystats.github.io/performance/index.html)**: The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit. Also check their outliers material: [https://easystats.github.io/performance/articles/check_outliers]
 - **[interactionR](https://github.com/tunsmart/interactionR)**: InteractionR allows researchers to produce publication-ready tables that includes all effect estimates necessary for full reporting effect modification and interaction analysis as recommended by Knol and Vanderweele (2012).
-- **[Assessing interation in epidemiological studies](https://ehsanx.github.io/interaction/)**: Guide to understand and interpret interactions.
+- **[Assessing interactions in epidemiological studies](https://ehsanx.github.io/interaction/)**: Guide to understand and interpret interactions.
 - **[Multiple Time Varying Covariates](https://github.com/egonzato/mtvc)**: The function mtvc takes as input one more more time varying variable, with the respective date in which that change was found, and restructures the data frame into the counting process strucure, where each patient has a time window which reflects the comorbidity status.
   
 ## ML
