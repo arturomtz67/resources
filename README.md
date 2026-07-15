@@ -33,7 +33,7 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[Regression Modeling Strategies](https://hbiostat.org/rmsc/)**: Great book to gain more in-depth knowledge of statistical modeling.
 - **[Marginalia: A guide to figuring out what the heck marginal effects are](https://www.andrewheiss.com/blog/2022/05/20/marginalia/#what-does-marginal-even-mean-in-the-first-place)**: Defines what marginal effects are, and explores the subtle differences between average marginal effects, marginal effects at the mean, and marginal effects at representative values with the `marginaleffects` and `emmeans` R packages.
 - **[How to Interpret Statistical Models with marginaleffects for R and Python](https://marginaleffects.com/)**: Designed to help you overcome challenges in communicating model results to colleagues and stakeholders.
-- **[performance](https://easystats.github.io/performance/index.html)**: The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit.
+- **[performance](https://easystats.github.io/performance/index.html)**: The primary goal of the performance package is to provide utilities for computing indices of model quality and goodness of fit. Also check their outliers material: [https://easystats.github.io/performance/articles/check_outliers]
 - **[interactionR](https://github.com/tunsmart/interactionR)**: InteractionR allows researchers to produce publication-ready tables that includes all effect estimates necessary for full reporting effect modification and interaction analysis as recommended by Knol and Vanderweele (2012).
 - **[Assessing interation in epidemiological studies](https://ehsanx.github.io/interaction/)**: Guide to understand and interpret interactions.
 - **[Multiple Time Varying Covariates](https://github.com/egonzato/mtvc)**: The function mtvc takes as input one more more time varying variable, with the respective date in which that change was found, and restructures the data frame into the counting process strucure, where each patient has a time window which reflects the comorbidity status.
@@ -54,7 +54,12 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[the ggplot2 Geom Explorer](https://www.ggplot2-uncharted.com/ggplot2-geom-explorer)**: This explorer puts every option on one page, so you can stop defaulting to bar and line charts and reach for whatever actually fits your story.
 - **[R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf)**: Finding a good color scheme for presenting data can be challenging. This color cheatsheet will help!
 - **[ggstatsplot](https://www.indrapatil.com/ggstatsplot/index.html)**: {ggstatsplot} is an extension of {ggplot2} package for creating graphics with details from statistical tests included in the information-rich plots themselves.
-- **[Plotting Functions for the 'performance' Package](https://easystats.github.io/see/articles/performance.html)**: The primary goal of the performance package in easystats ecosystem is to provide utilities for computing indices of model quality and goodness of fit. 
+- **[Plotting Functions for the 'performance' Package](https://easystats.github.io/see/articles/performance.html)**: The primary goal of the performance package in easystats ecosystem is to provide utilities for computing indices of model quality and goodness of fit.
+- **[jtools: Analysis and Presentation of Social Scientific Data](https://jtools.jacob-long.com/)**: A collection of tools for more efficiently understanding and sharing the results of (primarily) regression analyses.
+- **[interactions](https://interactions.jacob-long.com/)**: This package consists of a number of tools for the analysis and interpretation of statistical interactions in regression models.
+- **[Tools for summarizing and visualizing regression models (summ)](https://cran.r-project.org/web/packages/jtools/vignettes/summ.html)**: The support jtools provides for helping to understand and report the results of regression models.
+- **[gtsummary: Presentation-Ready Summary Tables](https://education.rstudio.com/blog/2020/07/gtsummary/)**: The gtsummary package provides an elegant and flexible way to create publication-ready analytical and summary tables in R.
+- **[naniar](https://naniar.njtierney.com/articles/naniar.html)**: Package naniar for exploring missing data structures with minimal deviation from the common workflows of ggplot and tidy data.
   
 
 ## Causal ML/AI
