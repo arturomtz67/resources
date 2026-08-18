@@ -37,6 +37,7 @@ This is a work in progress repo, suggestions are highly welcome.
 - **[interactionR](https://github.com/tunsmart/interactionR)**: InteractionR allows researchers to produce publication-ready tables that includes all effect estimates necessary for full reporting effect modification and interaction analysis as recommended by Knol and Vanderweele (2012).
 - **[Assessing interactions in epidemiological studies](https://ehsanx.github.io/interaction/)**: Guide to understand and interpret interactions.
 - **[Multiple Time Varying Covariates](https://github.com/egonzato/mtvc)**: The function mtvc takes as input one more more time varying variable, with the respective date in which that change was found, and restructures the data frame into the counting process strucure, where each patient has a time window which reflects the comorbidity status.
+- **[Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)**: Improving Your Statistical Inferences by Daniel Lakens.
   
 ## ML
 
